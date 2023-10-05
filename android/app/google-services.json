@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "709214902039",
+    "project_id": "my-project-june-17526",
+    "storage_bucket": "my-project-june-17526.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709214902039:android:74c8f35759a8404c874952",
+        "android_client_info": {
+          "package_name": "com.skully.project_june2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzyLcczg2eb_qMWDXHn0E_1TQ94iqzqm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
